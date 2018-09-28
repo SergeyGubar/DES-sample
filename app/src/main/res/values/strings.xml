@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DES Sample</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="your_key">Your key</string>
+    <string name="message_to_encrypt">Message to encrypt</string>
+    <string name="here_will_appear_encrypted_message">Here will appear encrypted message</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="here_will_appear_decrypted_message">Here will appear decrypted message</string>
+</resources>
